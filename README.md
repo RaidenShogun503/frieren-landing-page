@@ -2,6 +2,26 @@
 
 <img width="1904" height="1071" alt="image" src="https://github.com/user-attachments/assets/6c0ca0a4-68b6-486a-ba52-9c67f339bbcc" />
 
+## Como inicializar
+
+
+```
+npm install
+```
+```
+npm run dev
+```
+- A porta padrão para acessar é http://localhost:5173/
+
+## 🚀 Tem algum design pronto e precisa de uma desenvolvedora?
+
+Oi! 👋 Atuo com desenvolvimento web fullstack e posso ser sua desenvolvedora, para tirar seus design do papel ou fazer um sistema completo.  
+
+Se tiver interesse, é só me chamar:  
+📩 **geovana.matias1@gmail.com**
+
+## Sobre o Template Vite
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
