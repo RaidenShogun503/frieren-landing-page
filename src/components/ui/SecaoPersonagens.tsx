@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import CardPersonagem from "../ui/CardPersonagem";
 
 export default function SecaoPersonagens() {
-    const letters = "Personagens".split("");
+    const letters = "Nhân vật".split("");
 
   return(<>
   <div className="bg-black gap-5 justify-center py-10">
@@ -28,21 +28,21 @@ export default function SecaoPersonagens() {
     <div className="flex gap-3 justify-center py-20">
     <CardPersonagem
       nome="Frieren"
-      descricao="Uma elfa maga que explora o mundo com calma e sabedoria."
+      descricao="Một pháp sư du hành khắp thế giới với sự bình thản và trí tuệ."
       imagem="/Frierenfoto.jpeg"
-      tags={["Mago", "Elfa", "Aventureira"]}
+      tags={["Pháp sư", "Tiên tộc", "Mạo hiểm giả"]}
     />
     <CardPersonagem
       nome="Fern"
-      descricao="Uma elfa maga que explora o mundo com calma e sabedoria."
+      descricao="Một pháp sư du hành khắp thế giới với sự bình thản và trí tuệ."
       imagem="/Fern.jpeg"
-      tags={["Mago", "Humano", "Aventureira"]}
+      tags={["Pháp sư", "Con người", "Mạo hiểm giả"]}
     />
     <CardPersonagem
       nome="Frieren"
-      descricao="Uma elfa maga que explora o mundo com calma e sabedoria."
+      descricao="Một pháp sư du hành khắp thế giới với sự bình thản và trí tuệ."
       imagem="/Stark.jpeg"
-      tags={["Guerreiro", "Humano", "Aventureiro"]}
+      tags={["Chiến binh", "Con người", "Mạo hiểm giả"]}
     />
     </div>
 

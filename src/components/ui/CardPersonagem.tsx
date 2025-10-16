@@ -23,7 +23,7 @@ export default function CardPersonagem({
         {/* Imagem do personagem */}
         <img
           src={imagem}
-          alt="Personagem"
+          alt="Nhân vật"
           className="w-full h-64 object-cover rounded-t-xl"
         />
 
