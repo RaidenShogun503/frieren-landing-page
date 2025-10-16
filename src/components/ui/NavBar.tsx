@@ -35,7 +35,7 @@ export default function NavBar() {
           variants={itemVariants}
           transition={{delay: 2}}
         >
-          Início
+          Trang chủ
         </motion.li>
         <motion.li
           className="px-4 py-1 rounded-full cursor-pointer hover:bg-white/20 transition"
@@ -43,7 +43,7 @@ export default function NavBar() {
         transition={{delay: 2.5}}
 
         >
-          <a href="#galeria">Galeria</a>
+          <a href="#galeria">Bộ sưu tập</a>
         </motion.li>
         <motion.li
           className="px-4 py-1 rounded-full cursor-pointer hover:bg-white/20 transition"
@@ -51,7 +51,7 @@ export default function NavBar() {
         transition={{delay: 3}}
 
         >
-          <a href="#personagens">Personagens</a>
+          <a href="#personagens">Nhân vật</a>
         </motion.li>
       </motion.ul>
     </nav>

@@ -57,9 +57,9 @@ export default function Banner() {
             }}
         className="w-100 text-lg h-fit rounded-4xl backdrop-blur-md p-4"
         >
-          <span className="font-bold">Frieren, a Ceifadora</span> é uma ex-membro
-          de um grupo de aventureiros liderado pelo herói Himmel, que derrotou o
-          Rei Demônio e restaurou a harmonia ao mundo após uma busca de dez anos.
+          <span className="font-bold">Frieren, Kẻ Gặt Linh Hồn</span> là cựu thành viên
+          của một nhóm mạo hiểm giả do anh hùng Himmel dẫn dắt, đã đánh bại Ma Vương
+          và khôi phục hòa bình cho thế giới sau cuộc hành trình kéo dài mười năm.
         </motion.div>
       </div>
     </div>

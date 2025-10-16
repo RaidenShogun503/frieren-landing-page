@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import AssimetricPhotos from "./AssimetricPhotos";
 
 export default function SecaoGaleria() {
-  const letters = "Galeria".split("");
+  const letters = "Bộ sưu tập".split("");
 
   return (
     <>
