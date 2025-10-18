@@ -34,7 +34,7 @@ export default function SecaoPersonagens() {
     />
     <CardPersonagem
       nome="Fern"
-      descricao="Một pháp sư du hành khắp thế giới với sự bình thản và trí tuệ."
+      descricao=" là một pháp sư trẻ tuổi, và cô ấy đi cùng Frieren với tư cách là học trò và thành viên trong nhóm của mình. Cô là một người tị nạn chiến tranh mồ côi đến từ Southern Lands, sau đó được Heiter nhận nuôi và được Frieren chăm sóc sau khi anh qua đời.
       imagem="/Fern.jpeg"
       tags={["Pháp sư", "Con người", "Mạo hiểm giả"]}
     />
