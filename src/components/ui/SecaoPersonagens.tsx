@@ -39,7 +39,7 @@ export default function SecaoPersonagens() {
       tags={["Pháp sư", "Con người", "Mạo hiểm giả"]}
     />
     <CardPersonagem
-      nome="Frieren"
+      nome="Stark"
       descricao="Một pháp sư du hành khắp thế giới với sự bình thản và trí tuệ."
       imagem="/Stark.jpeg"
       tags={["Chiến binh", "Con người", "Mạo hiểm giả"]}
