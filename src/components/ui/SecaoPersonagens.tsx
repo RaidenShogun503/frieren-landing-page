@@ -28,7 +28,7 @@ export default function SecaoPersonagens() {
     <div className="flex gap-3 justify-center py-20">
     <CardPersonagem
       nome="Frieren"
-      descricao="Một pháp sư du hành khắp thế giới với sự bình thản và trí tuệ."
+      descricao="là nhân vật chính của Frieren: Beyond Journey's End. Cô là Pháp sư của Đảng Anh hùng và đi cùng với Anh hùng Himmel, Chiến binh Eisen và Linh mục Heiter trong cuộc hành trình mười năm để đánh bại Quỷ Vương."
       imagem="/Frierenfoto.jpeg"
       tags={["Pháp sư", "Tiên tộc", "Mạo hiểm giả"]}
     />
