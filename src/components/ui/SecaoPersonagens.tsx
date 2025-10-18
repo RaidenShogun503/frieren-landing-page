@@ -40,7 +40,7 @@ export default function SecaoPersonagens() {
     />
     <CardPersonagem
       nome="Stark"
-      descricao="Một pháp sư du hành khắp thế giới với sự bình thản và trí tuệ."
+      descricao="Là một Chiến binh con người. Sau khi ngôi làng của anh bị tấn công bởi Ác quỷ, anh chạy trốn và trở thành học trò của Eisen. Theo chỉ thị của Eisen, ông gia nhập nhóm của Frieren với tư cách là đội tiên phong của họ."
       imagem="/Stark.jpeg"
       tags={["Chiến binh", "Con người", "Mạo hiểm giả"]}
     />
